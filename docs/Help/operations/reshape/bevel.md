@@ -1,7 +1,9 @@
 ---
 title: Bevel
+parent: "Reshape Operations"
+grand_parent: "Operations"
+nav_order: 1
 ---
-
 # Bevel
 
 Bevel rounds or chamfers a selected edge of an object by performing a boolean cut with a shaped profile. This adds a smooth, professional-looking transition between faces.

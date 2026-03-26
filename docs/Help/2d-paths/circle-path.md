@@ -1,7 +1,8 @@
 ---
 title: Circle Path
+parent: "2D Paths"
+nav_order: 2
 ---
-
 # Circle Path
 
 A circular 2D path. Use with [Linear Extrude](../operations/path/linear-extrude.md) to create cylinders, or [Revolve](../operations/path/revolve.md) to create torus-like shapes.

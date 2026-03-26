@@ -1,7 +1,9 @@
 ---
 title: Mesh Operations
+parent: "Operations"
+has_children: true
+nav_order: 4
 ---
-
 # Mesh Operations
 <!-- AUTO_IMAGE: type=toolbar_icons group=Mesh -->
 ![Mesh toolbar icons](https://matterhackers.github.io/MatterCAD_Docs/assets/toolbar-icons-Mesh.png)

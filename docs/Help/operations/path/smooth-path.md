@@ -1,7 +1,9 @@
 ---
 title: Smooth Path
+parent: "Path Operations"
+grand_parent: "Operations"
+nav_order: 8
 ---
-
 # Smooth Path
 
 Smooth Path rounds the corners and curves of a 2D path, creating softer, more organic shapes from angular inputs.

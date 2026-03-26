@@ -1,7 +1,9 @@
 ---
 title: Linear Extrude
+parent: "Path Operations"
+grand_parent: "Operations"
+nav_order: 3
 ---
-
 # Linear Extrude
 
 Linear Extrude gives a 2D path height, turning a flat shape into a 3D solid. This is the primary way to convert paths into 3D objects.

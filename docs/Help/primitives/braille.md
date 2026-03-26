@@ -1,7 +1,8 @@
 ---
 title: Braille
+parent: "Primitives"
+nav_order: 2
 ---
-
 # Braille
 
 Generate 3D-printable Braille text from standard English text. The Braille tool supports both Grade 1 (letter-by-letter) and Grade 2 (contracted) Braille encoding.

@@ -1,7 +1,8 @@
 ---
 title: Text
+parent: "Primitives"
+nav_order: 16
 ---
-
 # Text
 
 Create 3D extruded text with customizable content, font, size, and height. Text objects are great for labels, signs, nameplates, and decorative lettering.

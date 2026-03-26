@@ -1,7 +1,8 @@
 ---
 title: Star Path
+parent: "2D Paths"
+nav_order: 5
 ---
-
 # Star Path
 
 A star-shaped 2D path with configurable number of points and inner/outer radius. Use with [Linear Extrude](../operations/path/linear-extrude.md) to create 3D star shapes.

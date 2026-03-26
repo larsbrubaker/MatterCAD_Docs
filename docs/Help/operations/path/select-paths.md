@@ -1,7 +1,9 @@
 ---
 title: Select Paths
+parent: "Path Operations"
+grand_parent: "Operations"
+nav_order: 7
 ---
-
 # Select Paths
 
 Select Paths lets you choose specific paths from a complex multi-path object. This is useful when you import an SVG or create text that contains multiple separate path elements and you only want to work with some of them.

@@ -1,7 +1,9 @@
 ---
 title: Lithophane
+parent: "Image Operations"
+grand_parent: "Operations"
+nav_order: 3
 ---
-
 # Lithophane
 
 A lithophane is a thin 3D panel where an image is encoded as varying thickness. When backlit, the thinner areas let more light through, revealing the image. This creates a beautiful way to display photographs and artwork.

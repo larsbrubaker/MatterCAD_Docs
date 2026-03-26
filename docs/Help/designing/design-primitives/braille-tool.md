@@ -1,7 +1,9 @@
 ---
 title: Braille Tool
+parent: "Design Primitives"
+grand_parent: "Designing Overview"
+nav_order: 1
 ---
-
 The Braille Design App enables the creation of 3D-printable braille labels for the visually impaired, serving both as a practical tool and an educational resource for understanding braille. The app supports Grade 1 and 2 English Braille.
 
 Access it through the Design Apps section.

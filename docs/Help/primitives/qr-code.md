@@ -1,7 +1,8 @@
 ---
 title: QR Code
+parent: "Primitives"
+nav_order: 12
 ---
-
 # QR Code
 
 Generate QR codes as 3D objects. You can encode text, URLs, or WiFi credentials into a scannable 3D QR code.

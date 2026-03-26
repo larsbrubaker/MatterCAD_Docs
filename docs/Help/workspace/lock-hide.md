@@ -1,7 +1,8 @@
 ---
 title: Lock and Hide
+parent: "Workspace"
+nav_order: 5
 ---
-
 # Lock and Hide
 
 Lock and Hide let you control which objects in your design can be selected and which are visible. These features help you work more efficiently on complex designs by preventing accidental changes and reducing visual clutter.

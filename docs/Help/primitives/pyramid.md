@@ -1,7 +1,8 @@
 ---
 title: Pyramid
+parent: "Primitives"
+nav_order: 11
 ---
-
 # Pyramid
 
 A four-sided pyramid shape with an adjustable rectangular base and height.

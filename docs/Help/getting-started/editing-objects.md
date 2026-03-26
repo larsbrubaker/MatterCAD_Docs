@@ -1,7 +1,8 @@
 ---
 title: Editing Objects
+parent: "Getting Started"
+nav_order: 3
 ---
-
 # Editing Objects
 
 MatterCAD provides intuitive controls built right into the 3D view for moving, rotating, and scaling your objects. You can also edit object parameters in the Properties panel.

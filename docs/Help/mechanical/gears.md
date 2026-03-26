@@ -1,7 +1,8 @@
 ---
 title: Gears
+parent: "Mechanical Parts"
+nav_order: 2
 ---
-
 # Gears
 
 Create 3D gears with fully configurable tooth geometry. MatterCAD generates proper involute gear profiles that mesh correctly with other gears of the same module and pressure angle.

@@ -1,7 +1,8 @@
 ---
 title: Keyboard Shortcuts
+parent: "Workspace"
+nav_order: 4
 ---
-
 # Keyboard Shortcuts
 
 Quick reference for all keyboard shortcuts available in MatterCAD.

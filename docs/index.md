@@ -1,29 +1,21 @@
 ---
-title: MatterCAD Documentation
+title: Home
+layout: home
+nav_order: 0
+permalink: /
 ---
 
 # MatterCAD Documentation
 
-Welcome to the official MatterCAD documentation.
+Welcome to the official MatterCAD documentation. Use the navigation on the left to browse topics, or use the search bar above to find what you need.
 
-## Getting Started
+![MatterCAD Interface](assets/paste-20260317-175249.jpg)
 
-- [Getting Started Guide](Help/getting-started/)
-- [Viewport Navigation](Help/getting-started/viewport-navigation)
-- [Creating New Objects](Help/getting-started/creating-new-objects)
+MatterCAD is a professional 3D design application for creating and modifying 3D models. Whether you are building something from scratch or editing an imported file, these guides will help you get up and running.
 
-## Reference
+## Quick Start
 
-- [Primitives](Help/primitives/) — 3D shape primitives
-- [Operations](Help/operations/) — Boolean, array, reshape, transform, and path operations
-- [Workspace](Help/workspace/) — Keyboard shortcuts, mouse controls, expressions
-- [Designing](Help/designing/) — Design workflows and techniques
-- [Mechanical](Help/mechanical/) — Gears and threads
-- [Library](Help/library/) — Cloud and local library management
-
-## More
-
-- [What's New](Help/whats-new)
-- [Release Notes](Help/release-notes)
-- [FAQ](Help/frequently-asked-questions)
-- [Get Support](Help/get-support)
+- [Getting Started](Help/getting-started/) - First steps with MatterCAD
+- [Primitives](Help/primitives/) - 3D shape building blocks
+- [Operations](Help/operations/) - Powerful design operations
+- [Keyboard Shortcuts](Help/workspace/keyboard-shortcuts) - Speed up your workflow

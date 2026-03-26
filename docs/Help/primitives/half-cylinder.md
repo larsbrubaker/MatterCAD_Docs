@@ -1,7 +1,8 @@
 ---
 title: Half Cylinder
+parent: "Primitives"
+nav_order: 6
 ---
-
 # Half Cylinder
 
 A cylinder cut in half lengthwise, creating a half-pipe or gutter shape.

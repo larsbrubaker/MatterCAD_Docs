@@ -1,7 +1,8 @@
 ---
 title: Ring Path
+parent: "2D Paths"
+nav_order: 4
 ---
-
 # Ring Path
 
 A 2D ring shape -- a circle with a circular hole in the center. Use with [Linear Extrude](../operations/path/linear-extrude.md) to create tube or washer shapes.

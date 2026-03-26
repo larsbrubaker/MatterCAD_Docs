@@ -1,7 +1,9 @@
 ---
 title: Plane Cut
+parent: "Reshape Operations"
+grand_parent: "Operations"
+nav_order: 5
 ---
-
 # Plane Cut
 
 Plane Cut slices an object at a specified height with a horizontal plane, keeping only the portion below the cut. The cut surface is capped with a flat face.

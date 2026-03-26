@@ -1,5 +1,7 @@
 ---
 title: Scale Controls
+parent: "Designing Overview"
+nav_order: 7
 ---
 Click on any of the scale corner controls to scale your part on the bed.
 

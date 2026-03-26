@@ -1,7 +1,9 @@
 ---
 title: Path Operations
+parent: "Operations"
+has_children: true
+nav_order: 5
 ---
-
 # Path Operations
 <!-- AUTO_IMAGE: type=toolbar_icons group=Path -->
 ![Path toolbar icons](https://matterhackers.github.io/MatterCAD_Docs/assets/toolbar-icons-Path.png)

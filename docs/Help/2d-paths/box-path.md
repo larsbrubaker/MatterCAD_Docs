@@ -1,7 +1,8 @@
 ---
 title: Box Path
+parent: "2D Paths"
+nav_order: 1
 ---
-
 # Box Path
 
 A rectangular 2D path. Use with [Linear Extrude](../operations/path/linear-extrude.md) to create box shapes, or as a base for other path operations.

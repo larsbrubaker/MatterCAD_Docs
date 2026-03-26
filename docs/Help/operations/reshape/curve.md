@@ -1,7 +1,9 @@
 ---
 title: Curve
+parent: "Reshape Operations"
+grand_parent: "Operations"
+nav_order: 2
 ---
-
 # Curve
 
 Curve bends a straight object into an arc or circular shape. You can control the bend by specifying either an angle or a diameter to wrap around.

@@ -1,7 +1,9 @@
 ---
 title: Inflate Path
+parent: "Path Operations"
+grand_parent: "Operations"
+nav_order: 2
 ---
-
 # Inflate Path
 
 Inflate Path expands a 2D path outward, making the shape larger while maintaining its overall form. This is similar to applying a uniform offset to all edges.

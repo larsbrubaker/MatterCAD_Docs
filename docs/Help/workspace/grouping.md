@@ -1,7 +1,8 @@
 ---
 title: Grouping
+parent: "Workspace"
+nav_order: 3
 ---
-
 # Grouping
 
 Grouping combines multiple objects into a single unit that can be moved, copied, and operated on as one object. Unlike [Combine](../operations/boolean/combine.md), grouping does not merge the geometry -- each object remains separate inside the group.

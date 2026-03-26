@@ -1,7 +1,8 @@
 ---
 title: Mechanical Parts
+has_children: true
+nav_order: 5
 ---
-
 # Mechanical Parts
 
 MatterCAD includes specialized tools for creating mechanical components like gears and threaded fasteners.

@@ -1,7 +1,8 @@
 ---
 title: Getting Started
+has_children: true
+nav_order: 3
 ---
-
 # Getting Started with MatterCAD
 
 MatterCAD is a professional 3D design application for creating and modifying 3D models. Whether you are building something from scratch or editing an imported file, these guides will help you get up and running.

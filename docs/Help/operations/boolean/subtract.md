@@ -1,7 +1,9 @@
 ---
 title: Subtract
+parent: "Boolean Operations"
+grand_parent: "Operations"
+nav_order: 4
 ---
-
 # Subtract
 
 Subtract cuts one or more shapes out of another, performing a boolean subtraction. Use this to create holes, cutouts, and complex negative shapes.

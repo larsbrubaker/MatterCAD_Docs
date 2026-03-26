@@ -1,5 +1,7 @@
 ---
 title: Designing Overview
+has_children: true
+nav_order: 2
 ---
 ![paste 20260317 175328](https://matterhackers.github.io/MatterCAD_Docs/assets/paste-20260317-175328.jpg)
 

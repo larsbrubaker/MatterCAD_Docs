@@ -1,7 +1,8 @@
 ---
 title: Measure Tool
+parent: "Workspace"
+nav_order: 6
 ---
-
 # Measure Tool
 
 The Measure Tool lets you measure distances between points in your design. Place measurement points anywhere in the 3D viewport to check dimensions.

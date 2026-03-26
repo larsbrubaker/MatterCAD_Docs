@@ -1,7 +1,9 @@
 ---
 title: Align
+parent: "Placement Operations"
+grand_parent: "Operations"
+nav_order: 1
 ---
-
 # Align
 
 Align precisely positions objects relative to an anchor object along the X, Y, and Z axes. You can align edges, centers, or origins with optional offsets.

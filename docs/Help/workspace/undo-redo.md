@@ -1,7 +1,8 @@
 ---
 title: Undo and Redo
+parent: "Workspace"
+nav_order: 9
 ---
-
 # Undo and Redo
 
 MatterCAD maintains a full history of your changes so you can undo mistakes and redo actions you reversed.

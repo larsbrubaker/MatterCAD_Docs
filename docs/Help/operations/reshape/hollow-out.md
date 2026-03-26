@@ -1,7 +1,9 @@
 ---
 title: Hollow Out
+parent: "Reshape Operations"
+grand_parent: "Operations"
+nav_order: 3
 ---
-
 # Hollow Out
 
 Hollow Out creates a hollow shell from a solid object by offsetting the surface inward. The result is a thin-walled version of the original shape.

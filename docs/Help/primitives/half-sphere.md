@@ -1,7 +1,8 @@
 ---
 title: Half Sphere
+parent: "Primitives"
+nav_order: 7
 ---
-
 # Half Sphere
 
 The top hemisphere of a sphere -- a dome shape. Useful for creating domed tops, lens shapes, and rounded covers.

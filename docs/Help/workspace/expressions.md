@@ -1,7 +1,8 @@
 ---
 title: Expressions
+parent: "Workspace"
+nav_order: 2
 ---
-
 # Expressions
 
 Many parameters in MatterCAD accept mathematical expressions instead of plain numbers. This enables parametric design where changing one value automatically updates related dimensions.

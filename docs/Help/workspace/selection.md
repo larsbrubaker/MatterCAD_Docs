@@ -1,7 +1,8 @@
 ---
 title: Selection
+parent: "Workspace"
+nav_order: 8
 ---
-
 # Selection
 
 Selecting objects is fundamental to working in MatterCAD. You need to select objects before you can move, modify, or apply operations to them.

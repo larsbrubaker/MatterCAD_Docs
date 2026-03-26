@@ -1,7 +1,8 @@
 ---
 title: Cloud Library
+parent: "Library"
+nav_order: 1
 ---
-
 # Cloud Library
 
 The Cloud Library stores your designs online in your MatterHackers account. This lets you access your designs from any computer and keep a backup in the cloud.

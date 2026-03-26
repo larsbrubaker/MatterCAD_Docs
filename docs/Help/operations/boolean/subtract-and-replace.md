@@ -1,7 +1,9 @@
 ---
 title: Subtract and Replace
+parent: "Boolean Operations"
+grand_parent: "Operations"
+nav_order: 3
 ---
-
 # Subtract and Replace
 
 Subtract and Replace performs a boolean subtraction but keeps both resulting parts -- the base with the cutout, and the piece that was cut away. This is useful for creating multi-part designs or color-separated objects.

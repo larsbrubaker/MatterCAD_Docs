@@ -1,7 +1,8 @@
 ---
 title: Creating New Objects
+parent: "Getting Started"
+nav_order: 2
 ---
-
 # Creating New Objects
 
 MatterCAD provides a rich set of tools for creating 3D objects. You can start with primitive shapes, use specialized tools like text and QR codes, or build complex forms using boolean operations and arrays.

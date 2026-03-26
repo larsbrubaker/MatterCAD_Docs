@@ -1,7 +1,9 @@
 ---
 title: Twist
+parent: "Reshape Operations"
+grand_parent: "Operations"
+nav_order: 7
 ---
-
 # Twist
 
 Twist rotates the top of an object relative to the bottom, creating a spiral or twisted effect along the height. The rotation progresses smoothly from bottom to top.

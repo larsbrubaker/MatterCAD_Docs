@@ -1,7 +1,8 @@
 ---
 title: Viewport Navigation
+parent: "Getting Started"
+nav_order: 5
 ---
-
 # Viewport Navigation
 
 The 3D viewport is where you view and interact with your designs. MatterCAD uses a trackball camera model that lets you orbit, pan, and zoom freely around your objects.

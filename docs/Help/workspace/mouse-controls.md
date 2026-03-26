@@ -1,7 +1,8 @@
 ---
 title: Mouse Controls
+parent: "Workspace"
+nav_order: 7
 ---
-
 # Mouse Controls
 
 Complete reference for mouse controls in the MatterCAD 3D viewport.

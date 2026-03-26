@@ -1,7 +1,8 @@
 ---
 title: Ring
+parent: "Primitives"
+nav_order: 13
 ---
-
 # Ring
 
 A hollow cylinder (tube) with independent inner and outer diameters and a specified height. Also known as a pipe or tube shape.

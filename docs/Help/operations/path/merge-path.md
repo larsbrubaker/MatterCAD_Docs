@@ -1,7 +1,9 @@
 ---
 title: Merge Path
+parent: "Path Operations"
+grand_parent: "Operations"
+nav_order: 4
 ---
-
 # Merge Path
 
 Merge Path combines multiple separate paths into a single unified path. This is the path equivalent of [Combine](../boolean/combine.md) for 3D objects.

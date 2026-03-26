@@ -1,7 +1,9 @@
 ---
 title: Border Path
+parent: "Path Operations"
+grand_parent: "Operations"
+nav_order: 1
 ---
-
 # Border Path
 
 Border Path adds a border offset around an existing path, creating a larger version of the shape that surrounds the original.

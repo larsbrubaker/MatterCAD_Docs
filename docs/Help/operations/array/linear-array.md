@@ -1,7 +1,9 @@
 ---
 title: Linear Array
+parent: "Array Operations"
+grand_parent: "Operations"
+nav_order: 2
 ---
-
 # Linear Array
 
 Linear Array creates multiple copies of an object arranged in a straight line along a specified direction. Use this for creating repeating features like bolt holes, teeth, slots, or fence posts.

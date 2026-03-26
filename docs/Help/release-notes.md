@@ -1,7 +1,7 @@
 ---
 title: Release Notes
+nav_order: 104
 ---
-
 # MatterCAD 2.2026.3 (March 12, 2026)
 [Windows Download](https://mattercontrol.appspot.com/downloads/mattercad-windows/release)
 

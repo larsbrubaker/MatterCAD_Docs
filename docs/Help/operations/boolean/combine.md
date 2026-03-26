@@ -1,7 +1,9 @@
 ---
 title: Combine
+parent: "Boolean Operations"
+grand_parent: "Operations"
+nav_order: 1
 ---
-
 # Combine
 
 Combine merges multiple objects into a single unified solid. This is equivalent to a boolean union operation -- it joins overlapping shapes into one continuous mesh.

@@ -1,7 +1,7 @@
 ---
 title: What's New
+nav_order: 105
 ---
-
 # MatterCAD 2.2026.3
 
 <!-- HERO_IMAGE: A screenshot or GIF showing the new D3D rendering with transparency and shadows on a multi-object scene -->

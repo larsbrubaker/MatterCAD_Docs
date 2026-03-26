@@ -1,7 +1,8 @@
 ---
 title: Hole
+parent: "Primitives"
+nav_order: 9
 ---
-
 # Hole
 
 A cube-shaped object that is pre-configured to act as a boolean subtraction tool. When you use [Combine](../operations/boolean/combine.md), Hole objects are automatically subtracted from other shapes instead of being added to them.

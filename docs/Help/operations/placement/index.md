@@ -1,7 +1,9 @@
 ---
 title: Placement Operations
+parent: "Operations"
+has_children: true
+nav_order: 6
 ---
-
 # Placement Operations
 <!-- AUTO_IMAGE: type=toolbar_icons group=Placement -->
 ![Placement toolbar icons](https://matterhackers.github.io/MatterCAD_Docs/assets/toolbar-icons-Placement.png)

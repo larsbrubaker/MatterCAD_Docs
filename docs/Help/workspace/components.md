@@ -1,7 +1,8 @@
 ---
 title: Components
+parent: "Workspace"
+nav_order: 1
 ---
-
 # Components
 
 Components are reusable, parameterized groups of objects. When you create a component, it becomes a self-contained unit that you can insert multiple times in your design, and editing the component updates all instances.

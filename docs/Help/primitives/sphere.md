@@ -1,7 +1,8 @@
 ---
 title: Sphere
+parent: "Primitives"
+nav_order: 14
 ---
-
 # Sphere
 
 A round ball shape with adjustable diameter and detail level.

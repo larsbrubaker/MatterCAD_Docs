@@ -1,7 +1,8 @@
 ---
 title: Adding Existing Objects
+parent: "Designing Overview"
+nav_order: 1
 ---
-
 From Your Computer
 ==================
 

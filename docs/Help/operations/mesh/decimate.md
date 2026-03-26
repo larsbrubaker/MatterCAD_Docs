@@ -1,7 +1,9 @@
 ---
 title: Reduce
+parent: "Mesh Operations"
+grand_parent: "Operations"
+nav_order: 1
 ---
-
 # Reduce (Decimate)
 
 Reduce lowers the polygon count of a mesh while preserving the overall shape. This is useful for simplifying highly detailed models, reducing file size, and speeding up operations on complex geometry.

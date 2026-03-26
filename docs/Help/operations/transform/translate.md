@@ -1,7 +1,9 @@
 ---
 title: Translate
+parent: "Transform Operations"
+grand_parent: "Operations"
+nav_order: 4
 ---
-
 # Translate
 
 Translate moves an object by a specific distance along the X, Y, and/or Z axes. Unlike dragging an object with the mouse, Translate lets you enter exact offset values.

@@ -1,7 +1,8 @@
 ---
 title: Braille Card
+parent: "Primitives"
+nav_order: 1
 ---
-
 # Braille Card
 
 Create Braille cards with embossed Braille text on an integrated base. This is a convenience tool that combines a Braille text object with a backing card in one step.

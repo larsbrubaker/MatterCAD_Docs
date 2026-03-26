@@ -1,7 +1,9 @@
 ---
 title: Array Operations
+parent: "Operations"
+has_children: true
+nav_order: 1
 ---
-
 # Array Operations
 <!-- AUTO_IMAGE: type=toolbar_icons group=Duplication -->
 ![Duplication toolbar icons](https://matterhackers.github.io/MatterCAD_Docs/assets/toolbar-icons-Duplication.png)

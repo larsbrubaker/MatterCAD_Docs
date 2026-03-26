@@ -1,7 +1,8 @@
 ---
 title: Primitives
+has_children: true
+nav_order: 7
 ---
-
 # Primitives
 
 MatterCAD includes a library of 3D primitive shapes that serve as the building blocks for your designs. You can add any primitive to your workspace from the Primitives panel and then modify its parameters to get the exact shape you need.

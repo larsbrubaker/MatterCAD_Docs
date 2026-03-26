@@ -1,7 +1,8 @@
 ---
 title: Cone
+parent: "Primitives"
+nav_order: 3
 ---
-
 # Cone
 
 A tapered cylinder that comes to a point at the top. Useful for creating pointed features, funnels, and chamfers.

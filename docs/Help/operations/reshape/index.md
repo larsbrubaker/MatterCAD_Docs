@@ -1,7 +1,9 @@
 ---
 title: Reshape Operations
+parent: "Operations"
+has_children: true
+nav_order: 7
 ---
-
 # Reshape Operations
 <!-- AUTO_IMAGE: type=toolbar_icons group=Reshape -->
 ![Reshape toolbar icons](https://matterhackers.github.io/MatterCAD_Docs/assets/toolbar-icons-Reshape.png)

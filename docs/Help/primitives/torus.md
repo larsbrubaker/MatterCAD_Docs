@@ -1,7 +1,8 @@
 ---
 title: Torus
+parent: "Primitives"
+nav_order: 17
 ---
-
 # Torus
 
 A donut-shaped ring with independent control over the overall size and the thickness of the ring cross-section.

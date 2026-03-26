@@ -1,7 +1,8 @@
 ---
 title: Library
+has_children: true
+nav_order: 4
 ---
-
 # Library
 
 The library lets you organize, store, and share your 3D designs. You can browse local files, access cloud storage, and share designs with others.

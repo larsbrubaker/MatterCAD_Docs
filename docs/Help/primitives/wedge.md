@@ -1,7 +1,8 @@
 ---
 title: Wedge
+parent: "Primitives"
+nav_order: 18
 ---
-
 # Wedge
 
 A triangular prism shape -- like a cube cut diagonally from one edge to the opposite edge. Useful for ramps, supports, and angled surfaces.

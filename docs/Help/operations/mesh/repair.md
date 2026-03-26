@@ -1,7 +1,9 @@
 ---
 title: Repair
+parent: "Mesh Operations"
+grand_parent: "Operations"
+nav_order: 2
 ---
-
 # Repair
 
 Repair fixes common problems in mesh geometry, including non-manifold edges, holes, inconsistent face orientation, and nearly-coincident vertices. This is especially useful for imported STL and OBJ files that may have errors.

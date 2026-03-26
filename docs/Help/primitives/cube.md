@@ -1,7 +1,8 @@
 ---
 title: Cube
+parent: "Primitives"
+nav_order: 4
 ---
-
 # Cube
 
 A rectangular box shape with adjustable width, depth, height, and optional rounded edges. The Cube is one of the most commonly used primitives for building designs.

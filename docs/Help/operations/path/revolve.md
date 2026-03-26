@@ -1,7 +1,9 @@
 ---
 title: Revolve
+parent: "Path Operations"
+grand_parent: "Operations"
+nav_order: 6
 ---
-
 # Revolve
 
 Revolve spins a 2D path around an axis to create a 3D solid of revolution. This is how you create vases, bowls, wheels, and other rotationally symmetric objects.

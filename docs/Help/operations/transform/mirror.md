@@ -1,7 +1,9 @@
 ---
 title: Mirror
+parent: "Transform Operations"
+grand_parent: "Operations"
+nav_order: 1
 ---
-
 # Mirror
 
 Mirror creates a reflected copy of an object across one of the three primary axes. The result is a mirrored version of the original shape.

@@ -1,5 +1,8 @@
 ---
 title: Design Primitives
+parent: "Designing Overview"
+has_children: true
+nav_order: 4
 ---
 MatterCAD includes all the things you need to create your ideas - out of the box!
 

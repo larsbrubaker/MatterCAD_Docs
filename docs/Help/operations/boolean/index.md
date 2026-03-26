@@ -1,7 +1,9 @@
 ---
 title: Boolean Operations
+parent: "Operations"
+has_children: true
+nav_order: 2
 ---
-
 # Boolean Operations
 <!-- AUTO_IMAGE: type=toolbar_icons group=Merge -->
 ![Merge toolbar icons](https://matterhackers.github.io/MatterCAD_Docs/assets/toolbar-icons-Merge.png)

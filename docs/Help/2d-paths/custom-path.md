@@ -1,7 +1,8 @@
 ---
 title: Custom Path
+parent: "2D Paths"
+nav_order: 3
 ---
-
 # Custom Path
 
 Draw your own 2D path with control points. This gives you complete freedom to create any 2D shape that can then be extruded or revolved into a 3D object.

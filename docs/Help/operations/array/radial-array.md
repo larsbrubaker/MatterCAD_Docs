@@ -1,7 +1,9 @@
 ---
 title: Radial Array
+parent: "Array Operations"
+grand_parent: "Operations"
+nav_order: 3
 ---
-
 # Radial Array
 
 Radial Array creates multiple copies arranged in a circular pattern around a center point. Use this for creating features like gear teeth, clock markings, bolt circle patterns, or decorative rings.

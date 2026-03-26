@@ -1,7 +1,8 @@
 ---
 title: Half Wedge
+parent: "Primitives"
+nav_order: 8
 ---
-
 # Half Wedge
 
 A wedge shape cut in half, creating a right-triangle cross-section. Useful for corner supports and small angled features.

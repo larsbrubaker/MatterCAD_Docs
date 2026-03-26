@@ -1,7 +1,8 @@
 ---
 title: Image Object
+parent: "Primitives"
+nav_order: 10
 ---
-
 # Image Object
 
 Import an image and convert it into a 3D relief object where brightness values determine the height of each pixel. This lets you turn photographs, logos, and artwork into 3D-printable objects.

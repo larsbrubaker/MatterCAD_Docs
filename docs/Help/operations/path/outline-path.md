@@ -1,7 +1,9 @@
 ---
 title: Outline Path
+parent: "Path Operations"
+grand_parent: "Operations"
+nav_order: 5
 ---
-
 # Outline Path
 
 Outline Path creates an outline version of a filled path, converting a solid shape into just its boundary ring with a specified thickness.

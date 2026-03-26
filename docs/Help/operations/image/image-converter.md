@@ -1,7 +1,9 @@
 ---
 title: Image Converter
+parent: "Image Operations"
+grand_parent: "Operations"
+nav_order: 1
 ---
-
 # Image Converter
 
 Image Converter turns a raster image into a 3D relief where pixel brightness determines height. Bright areas become raised and dark areas become low (or vice versa).

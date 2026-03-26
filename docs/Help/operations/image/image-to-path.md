@@ -1,7 +1,9 @@
 ---
 title: Image to Path
+parent: "Image Operations"
+grand_parent: "Operations"
+nav_order: 2
 ---
-
 # Image to Path
 
 Image to Path traces the outlines of an image to create 2D paths. These paths can then be extruded, revolved, or used with any other path operation. This is ideal for converting logos, silhouettes, and simple graphics into 3D objects.

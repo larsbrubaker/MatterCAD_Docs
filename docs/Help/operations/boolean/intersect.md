@@ -1,7 +1,9 @@
 ---
 title: Intersect
+parent: "Boolean Operations"
+grand_parent: "Operations"
+nav_order: 2
 ---
-
 # Intersect
 
 Intersect keeps only the volume where two or more objects overlap, discarding everything else. This is useful for creating shapes that conform to the boundaries of multiple objects.

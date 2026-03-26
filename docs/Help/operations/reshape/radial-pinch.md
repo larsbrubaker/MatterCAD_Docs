@@ -1,7 +1,9 @@
 ---
 title: Radial Pinch
+parent: "Reshape Operations"
+grand_parent: "Operations"
+nav_order: 6
 ---
-
 # Radial Pinch
 
 Radial Pinch compresses an object inward from a center point with a customizable profile curve. Unlike regular [Pinch](pinch.md) which works from back to front, Radial Pinch compresses symmetrically around a center axis.

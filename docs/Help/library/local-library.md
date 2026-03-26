@@ -1,7 +1,8 @@
 ---
 title: Local Library
+parent: "Library"
+nav_order: 2
 ---
-
 # Local Library
 
 The Local Library stores your 3D designs on your computer. You can organize designs into folders, search for files, and quickly add them to your workspace.

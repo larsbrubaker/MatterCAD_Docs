@@ -1,7 +1,9 @@
 ---
 title: Advanced Array
+parent: "Array Operations"
+grand_parent: "Operations"
+nav_order: 1
 ---
-
 # Advanced Array
 
 Advanced Array creates copies where each successive copy has a compounding transformation applied -- an offset, rotation, and scale change that builds on the previous copy. This creates spirals, staircases, shrinking sequences, and other progressive patterns.

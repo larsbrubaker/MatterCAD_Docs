@@ -1,3 +1,25 @@
-theme: jekyll-theme-minimal
+remote_theme: just-the-docs/just-the-docs@v0.10.0
 title: MatterCAD Documentation
 baseurl: /MatterCAD_Docs
+url: https://matterhackers.github.io
+
+color_scheme: light
+
+search_enabled: true
+search:
+  heading_level: 3
+
+nav_sort: case_insensitive
+nav_external_links: []
+
+aux_links:
+  "GitHub":
+    - "https://github.com/MatterHackers/MatterCAD_Docs"
+
+footer_content: "MatterCAD Documentation &mdash; <a href=\"https://www.matterhackers.com\">MatterHackers</a>"
+
+# Exclude non-doc files from Jekyll processing
+exclude:
+  - _config.yml
+  - help-docs.zip
+  - "*.zip"

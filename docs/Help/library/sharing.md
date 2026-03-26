@@ -1,7 +1,8 @@
 ---
 title: Sharing
+parent: "Library"
+nav_order: 3
 ---
-
 # Sharing
 
 MatterCAD lets you share your designs with other users through share codes. This makes it easy to collaborate on designs or distribute your work.

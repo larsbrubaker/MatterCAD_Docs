@@ -1,7 +1,9 @@
 ---
 title: Scale
+parent: "Transform Operations"
+grand_parent: "Operations"
+nav_order: 3
 ---
-
 # Scale
 
 Scale resizes an object with precise control over dimensions, proportions, and unit conversion. You can scale uniformly, lock specific axes together, or resize each axis independently.

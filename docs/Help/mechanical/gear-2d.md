@@ -1,7 +1,8 @@
 ---
 title: Gear 2D
+parent: "Mechanical Parts"
+nav_order: 1
 ---
-
 # Gear 2D
 
 A 2D gear path that creates just the gear tooth profile as a flat path. Use this with [Linear Extrude](../operations/path/linear-extrude.md) or [Revolve](../operations/path/revolve.md) for more control over how the gear is built into a 3D shape.

@@ -1,7 +1,8 @@
 ---
 title: Operations
+has_children: true
+nav_order: 6
 ---
-
 # Operations
 
 Operations modify, combine, and transform objects in your design. MatterCAD organizes operations into groups that match the toolbar in the application.

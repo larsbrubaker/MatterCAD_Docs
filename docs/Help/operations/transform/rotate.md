@@ -1,7 +1,9 @@
 ---
 title: Rotate
+parent: "Transform Operations"
+grand_parent: "Operations"
+nav_order: 2
 ---
-
 # Rotate
 
 Rotate turns an object around a specified axis by a given angle. You can rotate around any axis direction and choose the center point of rotation.

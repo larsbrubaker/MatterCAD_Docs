@@ -1,7 +1,8 @@
 ---
 title: Workspace
+has_children: true
+nav_order: 8
 ---
-
 # Workspace
 
 Learn how to navigate the MatterCAD workspace, use keyboard shortcuts, and manage your design workflow.

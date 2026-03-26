@@ -1,7 +1,8 @@
 ---
 title: Cylinder
+parent: "Primitives"
+nav_order: 5
 ---
-
 # Cylinder
 
 A round column shape with configurable diameter, height, and number of sides. The Cylinder is essential for creating pins, rods, holes, and round features.

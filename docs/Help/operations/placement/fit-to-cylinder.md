@@ -1,7 +1,9 @@
 ---
 title: Fit to Cylinder
+parent: "Placement Operations"
+grand_parent: "Operations"
+nav_order: 3
 ---
-
 # Fit to Cylinder
 
 Fit to Cylinder scales and positions an object to fit within a cylindrical volume with a specified diameter and height.

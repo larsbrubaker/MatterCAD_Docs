@@ -1,7 +1,9 @@
 ---
 title: Pinch
+parent: "Reshape Operations"
+grand_parent: "Operations"
+nav_order: 4
 ---
-
 # Pinch
 
 Pinch compresses the back of an object inward, with the effect increasing toward the top. This creates a tapered or squeezed appearance.

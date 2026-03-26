@@ -1,7 +1,8 @@
 ---
 title: SVG Object
+parent: "Primitives"
+nav_order: 15
 ---
-
 # SVG Object
 
 Import SVG (Scalable Vector Graphics) files and use them as 2D paths in your design. SVGs can then be extruded into 3D shapes using [Linear Extrude](../operations/path/linear-extrude.md) or [Revolve](../operations/path/revolve.md).

@@ -1,7 +1,9 @@
 ---
 title: Transform Operations
+parent: "Operations"
+has_children: true
+nav_order: 8
 ---
-
 # Transform Operations
 <!-- AUTO_IMAGE: type=toolbar_icons group=Transform -->
 ![Transform toolbar icons](https://matterhackers.github.io/MatterCAD_Docs/assets/toolbar-icons-Transform.png)

@@ -1,6 +1,9 @@
 ---
 title: Image Converter
 articleKey: 4D9BD8DB-C544-4294-9C08-4195A409217A
+parent: "Design Primitives"
+grand_parent: "Designing Overview"
+nav_order: 2
 ---
 Image Converter can help you easily build parts from images
 

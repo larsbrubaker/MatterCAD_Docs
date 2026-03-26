@@ -1,7 +1,8 @@
 ---
 title: 2D Paths
+has_children: true
+nav_order: 1
 ---
-
 # 2D Paths
 
 2D paths are flat shapes that you can use as the starting point for 3D objects. Use [Linear Extrude](../operations/path/linear-extrude.md) to give a path height, or [Revolve](../operations/path/revolve.md) to spin a path around an axis to create a 3D form.

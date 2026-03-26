@@ -1,7 +1,8 @@
 ---
 title: Adding Existing Objects
+parent: "Getting Started"
+nav_order: 1
 ---
-
 # Adding Existing Objects
 
 You can bring existing 3D models into MatterCAD by importing files from your computer or adding content from the built-in library.

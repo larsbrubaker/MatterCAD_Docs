@@ -1,7 +1,9 @@
 ---
 title: Image Operations
+parent: "Operations"
+has_children: true
+nav_order: 3
 ---
-
 # Image Operations
 <!-- AUTO_IMAGE: type=toolbar_icons group=Image -->
 ![Image toolbar icons](https://matterhackers.github.io/MatterCAD_Docs/assets/toolbar-icons-Image.png)

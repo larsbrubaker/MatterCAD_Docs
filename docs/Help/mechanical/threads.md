@@ -1,7 +1,8 @@
 ---
 title: Threads
+parent: "Mechanical Parts"
+nav_order: 3
 ---
-
 # Threads
 
 Create screw threads with configurable diameter, pitch, and thread profile. Threads can be used as standalone bolts/screws or subtracted from other objects to create threaded holes.

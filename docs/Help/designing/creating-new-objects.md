@@ -1,5 +1,7 @@
 ---
 title: Creating New Objects
+parent: "Designing Overview"
+nav_order: 2
 ---
 MatterCAD provides powerful tools for creating and designing parts, offering everything you need to bring your ideas to life with a comprehensive set of design features.
 
