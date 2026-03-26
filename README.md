@@ -1,6 +1,6 @@
 # MatterCAD Documentation
 
-![MatterCAD 3D Design Interface](docs/assets/paste-20260317-175249.jpg)
+[![MatterCAD 3D Design Interface](https://matterhackers.github.io/MatterCAD_Docs/assets/paste-20260317-175249.jpg)](https://matterhackers.github.io/MatterCAD_Docs/)
 
 **MatterCAD** is a powerful, intuitive 3D design application built for makers, engineers, and creators. Design parts from scratch using parametric primitives, boolean operations, arrays, and more — then export for 3D printing or CNC machining.
 
@@ -16,12 +16,12 @@ This repository hosts the official MatterCAD documentation, served publicly via 
 
 | Boolean Operations | Array Patterns | Mechanical Parts |
 | :---: | :---: | :---: |
-| ![Boolean Subtract](docs/assets/boolean_subtract.png) | ![Linear Array](docs/assets/array_linear.png) | ![Gears](docs/assets/mechanical_gears.png) |
+| [![Boolean Subtract](https://matterhackers.github.io/MatterCAD_Docs/assets/boolean_subtract.png)](https://matterhackers.github.io/MatterCAD_Docs/Help/operations/boolean/subtract) | [![Linear Array](https://matterhackers.github.io/MatterCAD_Docs/assets/array_linear.png)](https://matterhackers.github.io/MatterCAD_Docs/Help/operations/array/linear-array) | [![Gears](https://matterhackers.github.io/MatterCAD_Docs/assets/mechanical_gears.png)](https://matterhackers.github.io/MatterCAD_Docs/Help/mechanical/gears) |
 | Combine, subtract, and intersect solids | Linear, radial, and advanced arrays | Gears, threads, and precision parts |
 
 ### Powerful Operations
 
-| ![Boolean Combine](docs/assets/boolean_combine.png) | ![Boolean Intersect](docs/assets/boolean_intersect.png) | ![Radial Array](docs/assets/array_radial.png) | ![Advanced Array](docs/assets/array_advanced.png) |
+| [![Boolean Combine](https://matterhackers.github.io/MatterCAD_Docs/assets/boolean_combine.png)](https://matterhackers.github.io/MatterCAD_Docs/Help/operations/boolean/combine) | [![Boolean Intersect](https://matterhackers.github.io/MatterCAD_Docs/assets/boolean_intersect.png)](https://matterhackers.github.io/MatterCAD_Docs/Help/operations/boolean/intersect) | [![Radial Array](https://matterhackers.github.io/MatterCAD_Docs/assets/array_radial.png)](https://matterhackers.github.io/MatterCAD_Docs/Help/operations/array/radial-array) | [![Advanced Array](https://matterhackers.github.io/MatterCAD_Docs/assets/array_advanced.png)](https://matterhackers.github.io/MatterCAD_Docs/Help/operations/array/advanced-array) |
 | :---: | :---: | :---: | :---: |
 | Combine | Intersect | Radial Array | Advanced Array |
 
