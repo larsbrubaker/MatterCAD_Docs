@@ -8,15 +8,15 @@ nav_order: 1
 <!-- AUTO_IMAGE: type=toolbar_icons group=Duplication -->
 ![Duplication toolbar icons](https://matterhackers.github.io/MatterCAD_Docs/assets/toolbar-icons-Duplication.png)
 
-Array operations create multiple copies of an object arranged in a pattern. This is useful for creating repeating features like bolt holes, fence posts, or decorative elements.
+Array creates multiple copies of an object arranged in a pattern. This is useful for creating repeating features like bolt holes, fence posts, gear teeth, or decorative elements.
 
-|Linear Array           .|Radial Array|Advanced Array|
+The Array operation is a single, flexible tool that can create linear, radial, and advanced patterns depending on which options you enable.
+
+|Linear Pattern           .|Radial Pattern|Advanced Pattern|
 | :--- | :--- | :--- |
 |<!-- AUTO_IMAGE: type=from_mcx file=array_linear -->![array_linear](https://matterhackers.github.io/MatterCAD_Docs/assets/array_linear.png)|<!-- AUTO_IMAGE: type=from_mcx file=array_radial -->![array_radial](https://matterhackers.github.io/MatterCAD_Docs/assets/array_radial.png)|<!-- AUTO_IMAGE: type=from_mcx file=array_advanced -->![array_advanced](https://matterhackers.github.io/MatterCAD_Docs/assets/array_advanced.png)|
 
-## Operations
+## Pages
 
-- [Linear Array](linear-array.md) - Duplicate objects along a straight line
-- [Radial Array](radial-array.md) - Duplicate objects in a circular pattern around a center point
-- [Advanced Array](advanced-array.md) - Create complex array patterns with additional control
+- [Array](array.md) - Create patterns of duplicated objects with offset, rotation, scale, and randomization
 - [Select Child](select-child.md) - Dynamically pick one child from a group by index or name
