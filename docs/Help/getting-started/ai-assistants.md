@@ -84,7 +84,7 @@ Claude Desktop connects through a small helper called mcp-remote, which it downl
      "mcpServers": {
        "mattercad": {
          "command": "npx",
-         "args": ["-y", "mcp-remote", "http://127.0.0.1:47813/mcp", "--allow-http", "--header", "Authorization:${AUTH_HEADER}"],
+         "args": ["-y", "mcp-remote@0.14.3", "http://127.0.0.1:47813/mcp", "--allow-http", "--header", "Authorization:${AUTH_HEADER}"],
          "env": { "AUTH_HEADER": "Bearer <your key>" }
        }
      }
