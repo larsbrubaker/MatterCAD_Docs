@@ -240,6 +240,17 @@ Notes:
 - **A failure comes back as text** beginning with `Error:`, so a broken link shows in the cell instead of breaking the design.
 - **`importdata` needs a desktop MatterCAD.** Neither source works in the browser build: a URL is refused outright, because the sheet evaluates synchronously and the browser has no synchronous fetch, and a local path fails on the sandbox that keeps a page away from your disk. Either way the cell shows an `Error:` message rather than a value.
 
+### Designs From Someone Else Ask First
+
+A design can use `importdata()` to read any file on your computer or send a web address anything it read, so a design you did not make here does not read anything until you say so. When you open one, its imported values are blank and a bar across the top of the 3D view says **This design reads files from your computer or the web. Only allow designs you trust.**
+
+- **Allow** lets the design read, and its values fill in. MatterCAD remembers this for that file, so it does not ask again - unless someone changes the file.
+- **The X** hides the bar and leaves the values blank.
+
+Designs you make and save in MatterCAD on this computer never ask. Network shares (paths starting with `\\` or `//`) are never read, even after Allow.
+
+Cells you copy out of a design that has not been allowed stay blocked when you paste them into another sheet. Text you paste from another program, and a CSV you import, arrive as typed formulas: an `importdata()` in them runs in your design like one you typed, so check what you paste.
+
 ### Reading a CSV Row by Row
 
 `importdata()` hands back the whole file, so pull it apart with `split()` - once on newlines to pick a line, then again on commas to pick a field. The newline is written inline as `"\n"`, so the whole thing fits in one cell:
